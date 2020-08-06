@@ -1,2 +1,5 @@
-# pro14_analysis
-An analysis of when to kick for posts or touch reviewing Pro14 rugby matches
+# Pro14 Analysis
+
+A collection of notebooks (one for now) of notebooks analysing Pro14 rugby matches. 
+
+1. When to Kick for Goal 
